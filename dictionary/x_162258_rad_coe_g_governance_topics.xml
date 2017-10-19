@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Governance Topics" max_length="40" name="x_162258_rad_coe_g_governance_topics" type="collection">
+        <element label="Policy Statement" max_length="8000" name="policy_statement" type="html"/>
+    </element>
+</database>
